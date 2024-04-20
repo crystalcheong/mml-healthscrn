@@ -40,3 +40,7 @@ To run this application, ensure you have Python and the `transitions` library in
 ```bash
 python app.py
 ```
+
+---
+
+_This repository is submitted for Marymount Labs' Software Engineering Intern assessment._
